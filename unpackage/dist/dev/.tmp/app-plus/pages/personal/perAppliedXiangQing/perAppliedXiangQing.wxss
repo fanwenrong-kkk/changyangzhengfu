@@ -1,0 +1,34 @@
+
+.codiv{
+	border-bottom: 2rpx solid #EAEAEA;
+	padrpxg: 0 20rpx;
+	line-height:80rpx ;
+	margin: 0 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 30rpx 0;
+}
+.coBar{
+	font-size: 30rpx;
+	width: 250rpx;
+}
+.cnValue{
+	color: #999;
+	font-size: 28rpx;
+}
+.women{
+	border:0
+}
+.resubmit{
+	background-color: #C30D24;
+	line-height: 80rpx;
+	border-radius: 50rpx;
+	/* margin: 0rpx 70rpx; */
+	width: 600rpx;
+	position: absolute;
+	bottom: 30rpx;
+	left: 70rpx;
+}
+
+

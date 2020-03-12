@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "信用查询",
+  "navigationBarBackgroundColor": "#C30D24",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

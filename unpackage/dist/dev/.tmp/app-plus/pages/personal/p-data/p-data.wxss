@@ -1,0 +1,38 @@
+
+.cre-lei {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-box-pack :justify;
+		-webkit-justify-content :space-between;
+		        justify-content :space-between;
+		padding: 20rpx 10rpx 20rpx 25rpx;
+		border-bottom: 1rpx solid #EAEAEA;
+}
+.zuinquire {
+	text-align: center;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: relative;
+}
+.zstate {
+	font-weight: 600;
+	font-size: 26rpx
+}
+.xialajiantoublack {
+	width: 20rpx;
+	height: 15rpx;
+	margin: 0 15rpx 5rpx;
+}
+.list-bot{
+	padding: 20rpx 0 ;
+	border-bottom: 1rpx solid #EAEAEA;
+}
+.number{
+	float: right;
+}
+.last{
+	border: 0;
+}
+

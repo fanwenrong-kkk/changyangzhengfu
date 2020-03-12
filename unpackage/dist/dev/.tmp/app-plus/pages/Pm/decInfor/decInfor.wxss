@@ -1,0 +1,85 @@
+
+.oneInfo{
+	border-bottom: 1rpx solid #EAEAEA;
+	font-size: 26rpx;
+	font-weight: 600;
+	line-height: 60rpx;
+}
+.proName{
+	font-size: 24rpx;
+	padding: 10rpx 20rpx;
+}
+.proValue{
+	float: right;
+}
+.onName{
+	padding: 10rpx 10rpx;
+	font-size: 26rpx;
+	font-weight: 600;
+}
+.xiakey{
+	width: 22rpx;
+	height: 12rpx;
+}
+.xKey{
+	width: 100%;
+	text-align: center;
+}
+.huiCon{
+	width:650rpx;
+	background-color: #F6F6F6;
+	margin: 10rpx auto;
+	border-radius: 15rpx;
+	padding: 20rpx;
+	font-weight: 600
+}
+.danwei{
+	float: right;
+	margin-top: 20rpx;
+	padding-right: 30rpx;
+}
+.rightKey{
+	width: 12rpx;
+	height: 22rpx;
+}
+.con{
+	width:600rpx;
+	padding:40rpx
+}
+.biyao{
+	font-size: 28rpx;
+	font-weight: 600;
+	opacity: 0.8;
+}
+.texts{
+	font-size: 24rpx;
+	opacity: 0.6;
+}
+.proTwo{
+	margin-top: 40rpx;
+}
+.budget{
+	width: 620rpx;
+	height: 268rpx;
+	margin-left: 20rpx;
+}
+.book{
+	color: #295498;
+}
+.load{
+	width: 29rpx;
+	height: 28rpx;
+	vertical-align: middle;
+}
+.look{
+	color: #5397FD;
+	font-size: 24rpx;
+	margin:0 30rpx;
+}
+.bookRight{
+	float: right;
+}
+.declaration{
+	padding: 50rpx 20rpx ;
+}
+

@@ -1,0 +1,33 @@
+
+.join{
+	color:#C30D24;
+	float: right;
+}
+.acDiv{
+	padding: 20rpx 0;
+	margin: 0 20rpx;
+	overflow: hidden;
+	font-weight: 400;
+}
+.proName{
+	font-size: 28rpx;
+}
+.ProCont{
+	font-size: 26rpx;
+	float: right;
+	width: 415rpx;
+	text-align: right;
+	line-height: 40rpx;
+	color: #666;
+}
+.notjoin{
+	width: 30rpx;
+	height: 29rpx;
+	margin: 0 10rpx;
+}
+.resubmit{
+	background-color: #C30D24;
+	border-radius: 50rpx;
+	margin:40rpx 60rpx;
+}
+

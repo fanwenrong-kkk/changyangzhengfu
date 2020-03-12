@@ -1,0 +1,23 @@
+
+.join{
+	color:#EC6941;
+	float: right;
+}
+.acDiv{
+	padding: 20rpx 0;
+	margin: 0 20rpx;
+	overflow: hidden;
+	font-weight: 400;
+}
+.proName{
+	font-size: 28rpx;
+}
+.ProCont{
+	font-size: 26rpx;
+	float: right;
+	width: 415rpx;
+	text-align: right;
+	line-height: 40rpx;
+	color: #666;
+}
+

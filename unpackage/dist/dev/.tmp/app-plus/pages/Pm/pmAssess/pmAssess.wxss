@@ -1,0 +1,71 @@
+
+.huiCon{
+	width:650rpx;
+	background-color: #F6F6F6;
+	margin: 10rpx auto;
+	border-radius: 15rpx;
+	padding:10rpx 20rpx;
+	font-weight: 600;
+	font-size: 26rpx
+}
+.declaration{
+	padding: 50rpx 20rpx ;
+}
+.book{
+	color: #295498;
+	margin-left: 40rpx;
+}
+.load{
+	width: 29rpx;
+	height: 28rpx;
+	vertical-align: middle;
+}
+.look{
+	color: #5397FD;
+	font-size: 24rpx;
+	margin:0 30rpx;
+}
+.bookRight{
+	float: right;
+}
+.xiakey{
+	width: 22rpx;
+	height: 12rpx;
+}
+.danwei{
+	float: right;
+	margin-top: 20rpx;
+	padding-right: 30rpx;
+}
+/*  */
+.basic{
+	font-size: 24rpx;
+}
+.info{
+	line-height: 70rpx;
+	overflow: hidden;
+	font-size: 22rpx;
+	color: #999;
+}
+.fengong{
+	float: left;
+}
+.crew{
+	width: 300rpx;
+	float: right;
+}
+.active{
+	background-color: #F9F9FB;
+	padding: 0 35rpx;
+}
+.activity{
+	width: 690rpx;
+	padding: 0rpx;
+}
+.projectDesign{
+	padding: 50rpx 20rpx;
+}
+.lastCon{
+	margin-bottom: 150rpx;
+}
+

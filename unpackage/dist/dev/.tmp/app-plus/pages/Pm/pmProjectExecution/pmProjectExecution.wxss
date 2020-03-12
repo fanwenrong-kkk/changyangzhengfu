@@ -1,0 +1,43 @@
+
+.acDiv{
+	border-bottom: 3rpx solid #EAEAEA;
+	padding: 20rpx 0;
+	margin: 0 20rpx;
+	overflow: hidden;
+	font-weight: 400;
+}
+.proName{
+	font-size: 28rpx;
+}
+.ProCont{
+	font-size: 26rpx;
+	float: right;
+	width: 415rpx;
+	text-align: right;
+	line-height: 40rpx;
+	color: #666;
+}
+.pContent{
+	text-align: left;
+}
+.goodFeedback{
+	font-size: 28rpx;
+	color: #666;
+	margin: 0 40rpx;
+}
+.feedback{
+	color: #666;
+	margin: 0 30rpx;
+}
+.Ytime{
+	border: 0;
+}
+.toInitiate{
+	width:450rpx;
+	border-radius: 50rpx;
+	background-color: #C30D24;
+	line-height: 60rpx;
+	font-size: 28rpx;
+	margin: 20rpx auto 20rpx;
+}
+

@@ -1,0 +1,68 @@
+
+.xialajiantoublack {
+	width: 20rpx;
+	height: 15rpx;
+	position: absolute;
+	top:17rpx;
+	right: 20rpx;
+}
+.manage {
+	padding: 20rpx 0;
+}
+.cre-lei {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 5rpx 10rpx 20rpx 25rpx;
+	border-bottom: 1rpx solid #EAEAEA;
+}
+.items {
+	width: 25%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: relative;
+	margin: 0 10rpx;
+}
+.cr-times{
+	width: 17%;
+}
+.zstate {
+	font-weight: 600;
+	font-size: 26rpx
+}
+.caorg {
+	font-size: 26rpx;
+	font-weight: 600;
+	color: #333;
+}
+.group {
+	font-size: 24rpx;
+	color: #688DF7;
+	float: right;
+}
+.sheteam {
+	font-size: 24rpx;
+}
+.dengtime {
+	float: right;
+	color: #999;
+	font-size: 24rpx;
+	/* font-weight: 600; */
+}
+.team,
+.catering {
+	overflow: hidden;
+	line-height: 50rpx;
+}
+.peop {
+	width: 16rpx;
+	height: 24rpx;
+	margin: 0 10rpx 0 50rpx;
+	vertical-align: middle;
+}
+.cmon {
+	padding: 20rpx 30rpx;
+	border-top: 2rpx solid #EAEAEA;
+}
+

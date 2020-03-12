@@ -1,0 +1,97 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/credit/credit",
+    "pages/login/login",
+    "pages/login/register/register",
+    "pages/Pm/Pm",
+    "pages/personal/personal",
+    "pages/personal/message/message",
+    "pages/personal/details/details",
+    "pages/active/active",
+    "pages/active/detail_active/detail_active",
+    "pages/active/information/information",
+    "pages/index/detail/details",
+    "pages/index/secretary/secretary",
+    "pages/index/inform/inform",
+    "pages/credit/creditDetail/creditDetail",
+    "pages/Pm/pmDetails/pmDetails",
+    "pages/Pm/pmMonitor/pmMonitor",
+    "pages/Pm/decInfor/decInfor",
+    "pages/Pm/carryOut/carryOut",
+    "pages/Pm/pmAssess/pmAssess",
+    "pages/Pm/pmActivityMonitoring/pmActivityMonitoring",
+    "pages/Pm/pmPostProject/pmPostProject",
+    "pages/Pm/pmProjectExecution/pmProjectExecution",
+    "pages/Pm/pmHaveAttend/pmHaveAttend",
+    "pages/Pm/pmNotJoin/pmNotJoin",
+    "pages/Pm/pmShowJoin/pmShowJoin",
+    "pages/personal/perSecretary/perSecretary",
+    "pages/personal/perAppliedXiangQing/perAppliedXiangQing",
+    "pages/personal/perActiveApply/perActiveApply",
+    "pages/login/zhucedenglu/zhucedenglu",
+    "pages/pinggujigou/pinggujigou",
+    "pages/zhuguandanwei/zhuguandanwei",
+    "pages/zhuguandanwei/z-perActiveApply/z-perActiveApply",
+    "pages/personal/p-data/p-data",
+    "pages/personal/p-dataList/p-dataList",
+    "pages/Pm/p-monitor/p-monitor",
+    "pages/Pm/pFeedback/pFeedback",
+    "pages/personal/p-organizationList/p-organizationList",
+    "pages/personal/p-number/p-number",
+    "pages/active/joinDetail/joinDetail"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#C30D24",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/index.png",
+        "selectedIconPath": "static/index-action.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/credit/credit",
+        "iconPath": "static/credit.png",
+        "selectedIconPath": "static/credit-act.png",
+        "text": "信用查询"
+      },
+      {
+        "pagePath": "pages/Pm/Pm",
+        "iconPath": "static/pm.png",
+        "selectedIconPath": "static/pm-act.png",
+        "text": "项目管理"
+      },
+      {
+        "pagePath": "pages/active/active",
+        "iconPath": "static/active.png",
+        "selectedIconPath": "static/active-act.png",
+        "text": "监测活动"
+      },
+      {
+        "pagePath": "pages/personal/personal",
+        "iconPath": "static/personal.png",
+        "selectedIconPath": "static/personal-act.png",
+        "text": "个人中心"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "chaoyangzhengfu",
+  "compilerVersion": "2.5.1",
+  "usingComponents": {}
+}

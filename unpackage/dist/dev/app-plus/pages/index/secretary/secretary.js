@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"problem{ width: ",[0,600],"; margin: 0 auto; }\n.",[1],"questions{ margin-top: ",[0,20],"; }\n",],undefined,{path:"./pages/index/secretary/secretary.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/index/secretary/secretary.wxml') } }));

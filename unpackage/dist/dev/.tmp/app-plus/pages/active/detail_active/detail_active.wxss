@@ -1,0 +1,55 @@
+
+.erweima{
+	width: 250rpx;
+	height: 250rpx;
+	background-color: #000;
+	margin: 40rpx auto;
+}
+.rightKey{
+	width: 20rpx;
+	height: 25rpx;
+	float: right;
+	margin: 26rpx 40rpx 0 0;
+}
+.city{
+	width: 350rpx;
+	float: right;
+	padding: 20rpx 0;
+}
+.stats{
+	color: #8BC34A;
+}
+.inputs{
+	float: right;
+}
+.texts{
+	/* border: 1rpx solid; */
+	margin-top: 15rpx;
+	color: #666;
+}
+.detail{
+	border-bottom: 1px solid #EAEAEA;
+	overflow: hidden;
+	line-height: 80rpx;
+}
+.detail_lf{
+	width: 300rpx;
+	display: inline-block;
+	color: #333333;
+}
+.introduce{
+	color: #666666;
+	padding-bottom: 20rpx;
+}
+.apply_btn{
+	background: #C30D24;
+	margin: 20rpx 30rpx;
+	border-radius: 30rpx;
+}
+.last{
+	border: 0;
+}
+.apply_btn{
+	margin-top: 100rpx;
+}
+

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "新闻详情",
+  "navigationBarBackgroundColor": "#C30D24",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-parse": "/components/u-parse/u-parse"
+  }
+}

@@ -1,0 +1,39 @@
+
+.inputs{
+	float: right;
+}
+.texts{
+	/* border: 1rpx solid; */
+	margin-top: 10rpx;
+}
+.infor_list,.infor_lists{
+	border-bottom: 1px solid #EAEAEA;
+	line-height: 60rpx;
+	position: relative;
+}
+.infor_lists{
+	border: none !important;
+}
+.infor_name{
+	color: #333;
+	font-size: 28rpx;
+	padding: 0 18rpx;
+}
+.infor_rt{
+	float: right;
+}
+.peop{
+	width: 14rpx;
+	height: 18rpx;
+	margin: 0 15rpx;
+	vertical-align: middle;
+	position: absolute;
+	left: -20rpx;
+	top: 20rpx;
+}
+.apply_btn{
+	background: #C30D24;
+	margin: 20rpx 30rpx;
+	border-radius: 30rpx;
+}
+

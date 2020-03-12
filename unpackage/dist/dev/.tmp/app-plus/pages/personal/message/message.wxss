@@ -1,0 +1,43 @@
+
+.message{
+	position: relative;
+	padding: 30rpx 30rpx;
+}
+.mess_xiao{
+	width: 39rpx;
+	height: 32rpx;
+	position: absolute;
+	top: 40rpx;
+}
+.caorg{
+	font-size: 30rpx;
+	color: #333;
+	width: 363rpx;
+	display: inline-block;
+	padding-left: 45rpx;
+}
+.group{
+	font-size: 24rpx;
+	color: #666666;
+	float: right;
+}
+.sheteam{
+	font-size: 24rpx;
+}
+.dengtime{
+	float: right;
+	color: #999;
+	font-size: 24rpx;
+	/* font-weight: 600; */
+}
+.team,.catering{
+	overflow: hidden;
+	line-height: 30rpx;
+}
+.peop{
+	width: 16rpx;
+	height: 24rpx;
+	margin: 0 10rpx 0 50rpx;
+	vertical-align: middle;
+}
+

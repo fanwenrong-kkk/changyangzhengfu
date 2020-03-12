@@ -1,0 +1,26 @@
+
+.texture{
+	border-bottom: 2rpx solid #EAEAEA;
+	line-height: 60rpx;
+	padding: 10rpx;
+	margin: 0 20rpx;
+	overflow: hidden;
+}
+.nature{
+	font-size:28rpx;
+	font-weight:600;
+	color:rgba(51,51,51,1);
+	float: left;
+}
+.navalue{
+	float: right;
+	color:#666 ;
+	font-size: 26rpx;
+	line-height: 45rpx;
+	text-align: right;
+	width: 290rpx;
+}
+.range{
+	width: 100%;
+}
+

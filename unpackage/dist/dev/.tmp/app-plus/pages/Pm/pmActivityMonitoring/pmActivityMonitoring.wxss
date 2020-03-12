@@ -1,0 +1,38 @@
+
+page{
+		background-color: #F6F6F6;
+}
+uni-tabbar {
+    display: block;
+}
+.conDiv{
+	width: 650rpx;
+	margin: 20rpx auto 0;
+	border-radius: 15rpx;
+	background-color: #fff;
+	padding: 20rpx;
+}
+.acName{
+	line-height: 50rpx;
+}
+.acTion{
+	font-size: 28rpx;
+}
+.audit{
+	color: #8BC34A;
+	font-size: 26rpx;
+	float: right;
+}
+.acTime{
+	float: right;
+}
+.jia{
+	width: 26rpx;
+	height: 30rpx;
+	vertical-align: middle;
+	margin: 0 10rpx 0 0;
+}
+.monitoring{
+	font-size: 24rpx
+}
+

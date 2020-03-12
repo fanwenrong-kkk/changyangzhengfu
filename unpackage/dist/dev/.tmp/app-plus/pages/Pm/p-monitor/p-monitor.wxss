@@ -1,0 +1,95 @@
+
+.submit{
+	background-color: #3F51B5;
+	width: 170rpx;
+	line-height: 55rpx;
+	border-radius: 5rpx;
+	font-size: 24rpx;
+	margin-top: 60rpx;
+}
+.pu-box{
+	background-color: #fff;
+	width: 540rpx;
+	border-radius: 15rpx;
+	text-align: center;
+	padding: 20rpx 30rpx;
+}
+.form-text{
+	border:2rpx solid #EAEAEA;
+	border-radius:5rpx;
+	margin: 30rpx;
+	line-height: 60rpx;
+	padding: 15rpx 40rpx;
+	text-align: left;
+	font-size: 24rpx;
+}
+.cuo{
+	width: 25rpx;
+	height: 25rpx;
+	position: absolute;
+	right: 30rpx;
+	top: 35rpx;
+}
+.but{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.reject{
+	width: 50%;
+	background-color: #FF9800;
+	color: #fff;
+	border-radius:0;
+}
+.truejoin{
+	width: 50%;
+	background-color: #C30D24;
+	color:#fff;
+	border-radius:0;
+}
+.acDiv{
+	border-bottom: 3rpx solid #EAEAEA;
+	padding: 20rpx 0;
+	margin: 0 20rpx;
+	overflow: hidden;
+	font-weight: 400;
+}
+.last{
+	border-bottom: 0;
+	padding-bottom:80rpx ;
+}
+.proName{
+	font-size: 28rpx;
+}
+.ProCont{
+	font-size: 26rpx;
+	float: right;
+	width: 415rpx;
+	text-align: right;
+	line-height: 40rpx;
+}
+.pContent{
+	text-align: left;
+}
+.proTime{
+	padding-top: 10rpx;
+}
+.uni-input{
+	padding: 0;
+}
+.radio{
+	margin: 0 44rpx;
+}
+.jia{
+	width: 26rpx;
+	height: 30rpx;
+	vertical-align: middle;
+	margin: 20rpx 10rpx;
+}
+.supervise{
+	border: 0;
+}
+

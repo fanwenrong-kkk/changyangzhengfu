@@ -1,0 +1,31 @@
+
+.details_box{
+	width: 650rpx;
+	margin: 20rpx auto;
+	padding: 25rpx 20rpx;
+	text-align: center;
+}
+.details_title{
+	font-size: 40rpx;
+	color: #333333;
+	font-weight: 700;
+}
+.details_from{
+	font-size: 22rpx;
+	color: #999;
+	width:381rpx;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.details_lf{
+	float: left;
+}
+.details_rt{
+	float: right;
+}
+.details_con{
+	font-size: 24rpx;
+	width: 580rpx;
+	margin: 20rpx auto;
+}
+

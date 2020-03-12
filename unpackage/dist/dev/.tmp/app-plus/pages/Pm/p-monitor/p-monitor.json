@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "检测活动详情",
+  "navigationBarBackgroundColor": "#C30D24",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

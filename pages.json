@@ -1,0 +1,373 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "朝阳社会组织",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+				
+			}
+		}, {
+			"path": "pages/credit/credit",
+			"style": {
+				"navigationBarTitleText": "信用查询",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "朝阳社区组织",
+				"navigationStyle":"custom"
+			}
+		}, {
+			"path": "pages/login/register/register",
+			"style": {
+				"navigationBarTitleText": "注册",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+			"path": "pages/Pm/Pm",
+			"style": {
+				"navigationBarTitleText": "项目管理",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		}, {
+			"path": "pages/personal/personal",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"navigationStyle":"custom"
+			}
+		}, {
+			"path": "pages/personal/message/message",
+			"style": {
+				"navigationBarTitleText": "消息记录",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+			"path": "pages/personal/details/details",
+			"style": {
+				"navigationBarTitleText": "消息详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+			"path": "pages/active/active",
+			"style": {
+				"navigationBarTitleText": "会议活动",
+				"navigationStyle":"custom"
+			}
+		},{
+			"path": "pages/active/activeJiance/activeJiance",
+			"style": {
+				"navigationBarTitleText": "会议活动",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/active/detail_active/detail_active",
+			"style": {
+				"navigationBarTitleText": "活动详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/active/perActiveApply/perActiveApply",
+			"style": {
+				"navigationBarTitleText": "监测活动管理",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		{
+			"path": "pages/active/information/information",
+			"style": {
+				"navigationBarTitleText": "活动报名",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		},{
+            "path" : "pages/index/detail/details",
+            "style" : {
+				"navigationBarTitleText": "新闻详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+				
+			}
+        }
+        ,{
+            "path" : "pages/index/secretary/secretary",
+            "style" : {
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white",
+				"navigationBarTitleText": "@书记"
+			}
+        }
+        ,{
+            "path" : "pages/index/inform/inform",
+            "style" : {
+				"navigationBarTitleText": "通知公告",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/credit/creditDetail/creditDetail",
+            "style" : {
+				"navigationBarTitleText": "信用详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/pmDetails/pmDetails",
+            "style" : {
+				"navigationBarTitleText": "项目详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+		,{
+		    "path" : "pages/Pm/pm-dataList/pm-dataList",
+		    "style" : {
+				"navigationBarTitleText": "项目列表",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+		}
+        ,{
+            "path" : "pages/Pm/pmMonitor/pmMonitor",
+            "style" : {
+				"navigationBarTitleText": "发起活动监测",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/decInfor/decInfor",
+            "style" : {
+				"navigationBarTitleText": "项目详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        
+        ,{
+            "path" : "pages/Pm/carryOut/carryOut",
+            "style" : {
+				"navigationBarTitleText": "项目详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/pmAssess/pmAssess",
+            "style" : {
+				"navigationBarTitleText": "中期评估资料",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/pmActivityMonitoring/pmActivityMonitoring",
+            "style" : {
+				"navigationBarTitleText": "活动监测",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/pmPostProject/pmPostProject",
+            "style" : {
+				"navigationBarTitleText": "结项评估材料",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/pmProjectExecution/pmProjectExecution",
+            "style" : {
+				"navigationBarTitleText": "项目详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+		
+        ,{
+            "path" : "pages/Pm/pmHaveAttend/pmHaveAttend",
+            "style" : {
+				"navigationBarTitleText": "活动监测详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/pmNotJoin/pmNotJoin",
+            "style" : {
+				"navigationBarTitleText": "活动监测详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/pmShowJoin/pmShowJoin",
+            "style" : {
+				"navigationBarTitleText": "活动监测详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/personal/perSecretary/perSecretary",
+            "style" : {
+				"navigationBarTitleText": "@书记消息",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/personal/perAppliedXiangQing/perAppliedXiangQing",
+            "style" : {
+				"navigationBarTitleText": "活动详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/personal/perActiveApply/perActiveApply",
+            "style" : {
+				"navigationBarTitleText": "活动报名情况",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/login/zhucedenglu/zhucedenglu",
+            "style" : {
+				"navigationBarTitleText": "注册登录",
+				"navigationStyle":"custom"
+			}
+        }
+        // ,{
+        //     "path" : "pages/pinggujigou/pinggujigou",
+        //     "style" : {}
+        // }
+        ,{
+            "path" : "pages/zhuguandanwei/zhuguandanwei",
+            "style" : {
+				// "navigationBarTitleText": "个人中心",
+				"navigationStyle":"custom"
+			}
+        }
+        ,{
+            "path" : "pages/zhuguandanwei/z-perActiveApply/z-perActiveApply",
+            "style" : {
+				"navigationBarTitleText": "检测活动管理",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/personal/p-data/p-data",
+            "style" : {
+				"navigationBarTitleText": "数据统计",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/personal/p-dataList/p-dataList",
+            "style" : {
+				"navigationBarTitleText": "项目列表",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/p-monitor/p-monitor",
+            "style" : {
+				"navigationBarTitleText": "检测活动详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/Pm/pFeedback/pFeedback",
+            "style" : {
+				"navigationBarTitleText": "检测活动详情",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/personal/p-organizationList/p-organizationList",
+            "style" : {
+				"navigationBarTitleText": "机构列表",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/personal/p-number/p-number",
+            "style" : {
+				"navigationBarTitleText": "项目列表",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+        ,{
+            "path" : "pages/active/joinDetail/joinDetail",
+            "style" : {
+				"navigationBarTitleText": "参会明细",
+				"navigationBarBackgroundColor":"#C30D24",
+				"navigationBarTextStyle":"white"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+	    "color":"#666",
+	    "selectedColor":"#C30D24",
+	    "borderStyle": "black",
+	    "backgroundColor": "#ffffff",
+		// "fontSize":"24rpx",
+	    "list": [{
+	        "pagePath": "pages/index/index",
+	        "iconPath": "static/index.png",
+	        "selectedIconPath": "static/index-action.png",
+	        "text": "首页"
+	    }, {
+	        "pagePath": "pages/credit/credit",
+	        "iconPath": "static/credit.png",
+	        "selectedIconPath": "static/credit-act.png",
+	        "text": "信用查询"
+	    },
+		{
+		    "pagePath": "pages/Pm/Pm",
+		    "iconPath": "static/pm.png",
+		    "selectedIconPath": "static/pm-act.png",
+		    "text": "项目管理"
+		},{
+	        "pagePath": "pages/active/active",
+	        "iconPath": "static/active.png",
+	        "selectedIconPath": "static/active-act.png",
+	        "text": "监测活动"
+	    },{
+	        "pagePath": "pages/personal/personal",
+	        "iconPath": "static/personal.png",
+	        "selectedIconPath": "static/personal-act.png",
+	        "text": "个人中心"
+	    }]
+	}
+}

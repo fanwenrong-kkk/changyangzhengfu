@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .back-color{
+	background-color: #F7F7F7;
+	width: 100%;
+	height:1000rpx;
+} */
+page{
+	background-color: #F7F7F7;
+}
+.conheight{
+}
+.notice-list{
+	border-top: 2rpx solid #EAEAEA;
+	padding: 15rpx 0;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow:ellipsis;
+}
+/* .notice{
+	border-bottom: 2rpx solid #EAEAEA;
+	padding-bottom: 15rpx;
+} */
+.headline{
+	font-size: 26rpx;
+	font-weight: 600;
+}
+.list-time,.read{
+	font-size: 22rpx;
+	color:#999;
+	font-weight: 500;
+	margin-right: 20rpx;
+}
+.read{
+	margin-right: 20rpx;
+	float: right;
+}
+.list-small{
+	overflow: hidden;
+	line-height: 30rpx;
+}
+.inf-list{
+	border:0;
+	border-bottom: 2rpx solid #EAEAEA;
+}
+

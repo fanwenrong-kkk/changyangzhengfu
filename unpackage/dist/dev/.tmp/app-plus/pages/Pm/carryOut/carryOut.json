@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "项目详情",
+  "navigationBarBackgroundColor": "#C30D24",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "wuc-tab": "/components/wuc-tab/wuc-tab"
+  }
+}

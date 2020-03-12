@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"join{ color:#EC6941; float: right; }\n.",[1],"acDiv{ padding: ",[0,20]," 0; margin: 0 ",[0,20],"; overflow: hidden; font-weight: 400; }\n.",[1],"proName{ font-size: ",[0,28],"; }\n.",[1],"ProCont{ font-size: ",[0,26],"; float: right; width: ",[0,415],"; text-align: right; line-height: ",[0,40],"; color: #666; }\n",],undefined,{path:"./pages/Pm/pmHaveAttend/pmHaveAttend.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/Pm/pmHaveAttend/pmHaveAttend.wxml') } }));
